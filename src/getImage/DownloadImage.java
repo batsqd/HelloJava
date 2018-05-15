@@ -16,6 +16,7 @@ class DownloadImage {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         // http://music.163.com/store/product/detail?id=6575089
+        int a=1;
         System.out.println("开始下载图片！");
         int id=1000;
         String savePath="D:\\homework_pics";
